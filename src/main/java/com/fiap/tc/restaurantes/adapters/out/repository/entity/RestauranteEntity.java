@@ -18,4 +18,5 @@ public class RestauranteEntity {
   private String tipoDeCozinha;
   private Integer capacidade;
   private LocalDateTime horarioFuncionamento;
+
 }
